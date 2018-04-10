@@ -1,0 +1,8 @@
+[2018-04-10T13:22:58Z, ERROR] /python_container/docloudcontroller.py:74: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2018-04-10T13:22:58Z, ERROR]   uri = 'file:{0}'.format(quote(os.path.abspath(os.path.join(tmpdir, key + '.tmp'))))
+[2018-04-10T13:22:58Z, ERROR] /python_container/docloudcontroller.py:80: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2018-04-10T13:22:58Z, ERROR]   def set_stop_callback(self, fct):
+[2018-04-10T13:22:58Z, ERROR] /python_container/docloudcontroller.py:86: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2018-04-10T13:22:58Z, ERROR]   def set_parameters(self, parameters):
+[2018-04-10T13:22:58Z, ERROR] /python_container/docloudcontroller.py:92: FutureWarning: sortlevel is deprecated, use sort_index(level= ...)
+[2018-04-10T13:22:58Z, ERROR]   else:
