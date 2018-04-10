@@ -5,5 +5,5 @@
 	"development": [ "Python" ],
 	"category": [ {"DOforDSX":["DO for DSX"]} ],
 	"industry": [ "Manufacturing" ],
-	"abstract": "A simple DO for DSX example showing basic functionnality about model builder, dashboard, etc."
+	"abstract": "According to some given demand for some products on some markets, decide which products to manufacture at which plant and for which markets."
 }
