@@ -1,9 +1,9 @@
 {
 	"provider": ["IBM"], 
-	"name":  "DO for DSX Supply Demand example" ,
+	"name":  "DO for WS Supply Demand example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Python" ],
-	"category": [ {"DOforDSX":["DO for DSX"]} ],
+	"category": [ {"DOforWS":["DO for WS"]} ],
 	"industry": [ "Manufacturing" ],
 	"abstract": "According to some given demand for some products on some markets, decide which products to manufacture at which plant and for which markets."
 }
